@@ -7,7 +7,7 @@ echo "Mobile Legends S32"
 sleep 1
 
 echo ""
-read -p " Password : " password
+read -p " Password : " #+$+$+$!$($!;32++2+2!3+#+#+2!2
 
 if [ $password = #+$+$+$!$($!;32++2+2!3+#+#+2!2 ]
 then
