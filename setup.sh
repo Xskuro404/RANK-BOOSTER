@@ -7,18 +7,17 @@ echo "Mobile Legends S32"
 sleep 1
 
 echo ""
-read -p " Password : " #+$+$+$!$($!;32++2+2!3+#+#+2!2
+read -p " Password : " password
 
-if [ $password = #+$+$+$!$($!;32++2+2!3+#+#+2!2 ]
+if [ $password = 7272727737373hshshsh ]
 then
 	clear
 	figlet "MRXPLOIT"
 	echo "RANK BOOSTER V11"
 	echo "Mobile Legends S32"
 	echo ""
-	echo " Password : #+$+$+$!$($!;32++2+2!3+#+#+2!2 -true"
+	echo " Password : 7272727737373hshshsh -true"
 	sleep 1
-	
 	sleep 2 && echo Waitting for setup...
 	sleep 3 && clear && figlet MRXPLOIT RANK BOOSTER
 	sleep 0.5 && echo Setup...    0%
