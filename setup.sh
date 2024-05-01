@@ -43,7 +43,7 @@ then
 	sleep 1 && clear && figlet MRXPLOIT && echo Setup... 100%
 	sleep 0 && echo [■■■■■■■■■■]
 	sleep 0.5 && clear && figlet MRXPLOIT && echo Setup... Completed
-	sleep 0 && echo [■■■■■■■■■■]ðŸ’¥
+	sleep 0 && echo [■■■■■■■■■■] ENJOYING SA LARO
 	am start --user 0 -n com.mobile.legends/com.moba.unityplugin.MobaGameMainActivityWithExtractor
 
 else
